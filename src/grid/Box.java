@@ -13,7 +13,6 @@ public class Box {
 	/**********		attributes		***********/
 	private boolean isFree;
 	private Ground groundType;
-	private int x;
 	/**********		construc		**********/
 	
 	public Box(Ground groundType) {
